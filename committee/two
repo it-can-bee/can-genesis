@@ -1,0 +1,17 @@
+---
+info:
+  name: two
+  account-address: "0x133e4f2c4dc2536f07bf701b7c0259ec0ceecfee7614ab1e7e878df829cba471"
+  protocol-key: oicqpKZ7tw4b2Pxz9aayvaFFVVu+YVs5DeYQkbTNl+XDvMHQBI3sjC9ybDPEREWaCQb8HEFIC7aXws8BzbOUxRLXe/OztQxdGjxo2JKqfk4/ydYlzgjXtIasjlx5G2FI
+  worker-key: 2tIBjoF0EUt4wvhcAOAZ7mnd9zu9d5ZTUaKkSZTBWoE=
+  network-key: rEcsUeH+2/S4ixwcafqQU4/O6fSMQcHUqHWSGgocuTA=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /ip4/127.0.0.1/tcp/8280/http
+  p2p-address: /ip4/127.0.0.1/udp/8284
+  narwhal-primary-address: /ip4/127.0.0.1/udp/8281
+  narwhal-worker-address: /ip4/127.0.0.1/udp/8282
+  description: node two
+  image-url: ""
+  project-url: ""
+proof_of_possession: prwssEMVr3Qnq4UDbwWKdnq68T5KSuNOEadi74z8DfzInVPT4zfU/CF4uPbNPLSG
