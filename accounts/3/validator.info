@@ -1,0 +1,17 @@
+---
+info:
+  name: three
+  account-address: "0xde699be98953e3d926e6cde8ad2338e054db2f79aff8d2d6f3ec0f1c141f96df"
+  protocol-key: pEqScAQkZWGfIVp02J04IKTl/WfahN7CPlvV/CE+ESodKkIsooTSyOnoyOPJ+O8WBmMZThGHoNcz/LcBo2hZClrdV0c76M8pT/9Xd6w5A9Hru+ZTUJcsBBBXndR3CU7K
+  worker-key: K+37kiFFoCtG5vCpXYjG5lEgTl3RPUppIx5+PEqgaVA=
+  network-key: cBYSfU5OtQnLF+EAnA/Zl1zMwxVGWXUE05OIQhRebZo=
+  gas-price: 1005
+  commission-rate: 200
+  network-address: /dns/127.0.0.1/tcp/8080/http
+  p2p-address: /dns/127.0.0.1/udp/8084
+  narwhal-primary-address: /dns/127.0.0.1/udp/8081
+  narwhal-worker-address: /dns/127.0.0.1/udp/8082
+  description: three node
+  image-url: ""
+  project-url: ""
+proof_of_possession: lkfGXIiHEVWQamNE/z9PqVW3uOHfdCAn1+xwqxBw08a5p7Wgswf1wNDhJKlVCLQb
